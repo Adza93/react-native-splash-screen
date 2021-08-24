@@ -1,5 +1,6 @@
 # react-native-splash-screen
 
+This fork fixes an issue with location LaunchScreen with showSplash function.
 
 [![Download](https://img.shields.io/badge/Download-v3.2.0-ff69b4.svg) ](https://www.npmjs.com/package/react-native-splash-screen)
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/react-native-splash-screen/pulls)
